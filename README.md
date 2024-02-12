@@ -1,1 +1,1 @@
-https://wallstreetbet.netlify.app
+**Check it out here:** https://wallstreetbet.netlify.app
