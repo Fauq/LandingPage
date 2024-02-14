@@ -76,3 +76,28 @@ a {
 .push-right {
     margin-left: auto;
 }
+
+.sec2 {
+    background-color: #f9faf8;
+    padding: 50px;
+    text-align: center;
+}
+
+.sec2 .info {
+    display: flex;
+    justify-content: center;
+}
+
+.info-head {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sec2 img {
+    width: 100px;
+    height: 100px;
+
+}
