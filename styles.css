@@ -14,6 +14,7 @@ body {
 .about {
     width: 550px;
 }
+
 .header {
     display: flex;
     padding: 20px;
@@ -79,25 +80,55 @@ a {
 
 .sec2 {
     background-color: #f9faf8;
-    padding: 50px;
+    padding: 15px 90px 180px;
     text-align: center;
+
 }
 
-.sec2 .info {
+.info1 {
     display: flex;
     justify-content: center;
+    gap: 150px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
 }
 
 .info-head {
     margin-top: 0px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     text-align: center;
     justify-content: center;
     display: flex;
     align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1f2937;
 }
 .sec2 img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    border: #3882f6 5px solid;
+    border-radius: 10%;
 
+}
+
+.sec3 {
+    background-color: #e5e7eb;
+    padding: 80px 90px 180px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.sec3 .review {
+    width: 350px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 100;
+    color: #1f2937;
 }
